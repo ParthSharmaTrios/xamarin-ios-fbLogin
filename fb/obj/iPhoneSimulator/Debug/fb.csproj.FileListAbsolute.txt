@@ -1,0 +1,13 @@
+/Users/parthraisharma/Projects/fb/fb/bin/iPhoneSimulator/Debug/fb.exe
+/Users/parthraisharma/Projects/fb/fb/bin/iPhoneSimulator/Debug/fb.pdb
+/Users/parthraisharma/Projects/fb/fb/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/fb.csprojResolveAssemblyReference.cache
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/fb.csproj.CoreCompileInputs.cache
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/fb.exe
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/fb.pdb
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/actool/_PartialAppManifest.items
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/coremlc/_PartialAppManifest.items
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/fb/fb/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-11.3/optimized/
